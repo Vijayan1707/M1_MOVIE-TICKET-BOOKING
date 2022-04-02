@@ -1,3 +1,3 @@
 void login();
-void ol_record();
+void old_record();
 void viewAll();
