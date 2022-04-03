@@ -28,6 +28,10 @@
 
 *   Each registered user's password is saved in a FILE in.txt format in this function.
 
+## Badges
+* Codiga - Static Analysis
+![Quality](https://api.codiga.io/project/32469/score/svg)
+
 ## For Testing and using code
 
 * You have to use C compiler with MINGGW(latest or the previous versions).
